@@ -5,7 +5,7 @@ server:
 # for server discovery
 eureka:
     instance:
-        hostname: localhost
+        hostname: TXCDTL01SK964E.ITServices.sbc.com
         leaseRenewalIntervalInSeconds: 5
     client:
         registerWithEureka: false

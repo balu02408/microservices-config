@@ -4,4 +4,4 @@ server:
 eureka:
     client:
         serviceUrl:
-            defaultZone: http://localhost:8761/eureka/
+            defaultZone: http://TXCDTL01SK964E.ITServices.sbc.com:8761/eureka/
